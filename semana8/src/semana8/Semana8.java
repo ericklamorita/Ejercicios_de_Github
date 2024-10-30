@@ -16,7 +16,7 @@ public class Semana8 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("asd");
-        System.out.println("ajsndkandjkasnjkndkjandjan");
+        System.out.println("Hola mundo");
     }
     
 }
